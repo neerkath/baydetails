@@ -1,0 +1,4 @@
+com\kgisl\baydetails\BaydetailsApplication.class
+com\kgisl\baydetails\repository\Baydetailrepository.class
+com\kgisl\baydetails\controller\Baydetailcontroller.class
+com\kgisl\baydetails\model\Baydetails.class
